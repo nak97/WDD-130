@@ -1,0 +1,16 @@
+.top-info {
+  text-align: center;
+}
+
+ol{
+  position: relative;
+  left: 17.25em;
+  padding-bottom: 16px;
+}
+.bot-info {
+text-align: center;
+}
+
+.background {
+  background-color: pink;
+}

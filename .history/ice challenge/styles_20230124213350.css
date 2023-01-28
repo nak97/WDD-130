@@ -1,0 +1,22 @@
+.top-info {
+  text-align: center;
+  color: white;
+}
+
+ol{
+  position: relative;
+  left: 17.25em;
+  padding-bottom: 16px;
+}
+.bot-info {
+text-align: center;
+}
+
+
+body {
+  background: rgb(245, 136, 154);
+}
+ #quote {
+  color: white;
+ }
+ #education:hover {color: black;}
