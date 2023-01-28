@@ -38,10 +38,6 @@ nav a:hover {
   text-decoration: none;
 }
 
-.join {
-  text-decoration: none;
-  color: #396E94;
-}
 #background {
   background-color:#D8DDDE;
 }
@@ -59,18 +55,18 @@ color: black;
 
 footer {
   background-color:#8C271E;
-  font-size: 1.3em;
   }
- 
+  footer p{
+    font-size: 1.5em;
+  }
+
+
 footer a {
   color: #D8DDDE;
 }
 footer a:hover {
   color:#396E94 ;
   text-decoration: none;
-}
-footer p a:hover {
-  text-decoration: underline;
 }
 .home-title {
   color: #396E94;
