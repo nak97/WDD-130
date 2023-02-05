@@ -1,0 +1,31 @@
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-1 {
+  height: 100%;
+  width: 100%;
+}
+
+.container-top {
+  margin: -5px;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container-bot {
+  display: flex;
+  background-color: darkgrey;
+  justify-content: space-between;
+}
+
+.img-2 {
+  height: 200px;
+  width: 200px;
+}
+

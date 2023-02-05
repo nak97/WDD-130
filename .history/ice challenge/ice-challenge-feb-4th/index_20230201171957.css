@@ -1,0 +1,33 @@
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.img-1 {
+  height: 100%;
+  width: 100%;
+}
+
+.container-top {
+  margin: -5px;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container-bot {
+  display: flex;
+  background-color: darkgrey;
+  justify-content: space-around;
+}
+
+.img-2 {
+  height: 150px;
+  width: 150px;
+}
+
