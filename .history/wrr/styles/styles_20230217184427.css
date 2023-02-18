@@ -19,14 +19,8 @@ nav a{
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
   margin: -100px;
-  
+  width: 100%;
 
-}
-
-
-#hero-msg h4 {
-  color: #D9F7FA;
- 
 }
 
 #hero-box {
@@ -146,7 +140,7 @@ footer .social img{
 }
 
 .home-title {
-  color:#D9F7FA;
+  color: #396E94;
   font-family:'roboto', sans-serif;
   font-size: 2rem;
   margin-top: 10px;

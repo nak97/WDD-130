@@ -23,10 +23,8 @@ nav a{
 
 }
 
-
 #hero-msg h4 {
-  color: #D9F7FA;
- 
+  color: white;
 }
 
 #hero-box {
@@ -146,7 +144,7 @@ footer .social img{
 }
 
 .home-title {
-  color:#D9F7FA;
+  color: #396E94;
   font-family:'roboto', sans-serif;
   font-size: 2rem;
   margin-top: 10px;
