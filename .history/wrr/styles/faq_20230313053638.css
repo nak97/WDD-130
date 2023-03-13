@@ -1,6 +1,6 @@
 
 header {
-background-color:  #396e94;
+background-color:  #8C271E;
 height: 100px ;
 }
 
@@ -9,8 +9,6 @@ height: 100px ;
   display: flex;
   justify-content: space-around;
 }
-
-
 
 nav a {
   text-decoration: none;
@@ -49,7 +47,7 @@ body {background-color: #CFCBCA;}
 footer {
   display: flex;
   justify-content: space-around;
-  background-color: #396e94;
+  background-color: #8C271E;
   font-size: 22px;
   color: #CFCBCA;
 }

@@ -230,6 +230,13 @@ main section img {
   box-sizing:border-box
 }
 
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
 @media screen and (max-width: 900px) {
   #hero, .home-grid {
       display: block;

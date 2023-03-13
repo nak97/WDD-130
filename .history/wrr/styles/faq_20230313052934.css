@@ -1,6 +1,6 @@
 
 header {
-background-color:  #396e94;
+background-color:  #8C271E;
 height: 100px ;
 }
 
@@ -10,14 +10,10 @@ height: 100px ;
   justify-content: space-around;
 }
 
-
-
-nav a {
+a {
   text-decoration: none;
   color:#CFCBCA;;
   text-align: center;
-  font-size: 22px;
-  padding: 35px;
 }
 
 img {
@@ -49,9 +45,6 @@ body {background-color: #CFCBCA;}
 footer {
   display: flex;
   justify-content: space-around;
-  background-color: #396e94;
-  font-size: 22px;
-  color: #CFCBCA;
 }
 
 
